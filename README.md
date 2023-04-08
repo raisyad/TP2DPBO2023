@@ -34,16 +34,16 @@ Pada program ini terdapat 12 class dengan class `Home` sebagai main class/Main P
 * `AddComponent`	: Class ini merupakan JFrame yang berisi field form untuk menginputkan (Versi Input) atau mengubah data (Versi Update) dari table component di database. Pada class ini terdapat 5 attribut yaitu: home merupakan instansiasi, db (sebagai penyambung antara program dengan database dan sekaligus pengeksekusi syntax sql), isUpdate sebagai penanda apakah user sedang menambahkan sebuah data atau mengedit/mengubah sebuah data, id sebagai penanda ketika user akan mengubah/mengedit sebuah data/id didalam table component, tempIdLayar sebagai penanda atau pembanding apakah user mengubah data id layar atau tidak (karena ketika user mengganti data id layar asal dengan yang lainnya, maka data id layar asal status digunakannya akan menjadi false (0) dan data yang baru status digunakannya akan menjadi true (1)). Pada class ini juga terdapat beberapa fitur button, yaitu button back untuk menutup form AddComponent, button add untuk menambahkan data kedalam db, button clear untuk membersihkan/mengosongkan field.
 
 * `AddLaptop`	: Class ini merupakan JFrame yang berisi field form untuk menginputkan (Versi Input) atau mengubah data (Versi Update) dari table laptop di database. Pada class ini terdapat 11 attribut yaitu :
-1. Home untuk instansiasi.
-2. db (sebagai penyambung antara program dengan database dan sekaligus pengeksekusi syntax sql).
-3. isUpdate sebagai penanda apakah user sedang menambahkan sebuah data atau mengedit/mengubah sebuah data.
-4. id sebagai penanda ketika user akan mengubah/mengedit sebuah data/id didalam table laptop.
-5. name sebagai penampungan nameAccount dari table account.
-6. f sebagai temp allocate dari file img yang dipilih.
-7. paths sebagai temp absolutepath dari f (nama file img).
-8. newFilePath sebagai alokasi data string dengan path yang terbaru (src/ImgUpload/(namafile)).
-9. originalPath sebagai temp alokasi data path img awal.
-10. newPath sebagai target alokasi data path yang baru didalam local project (src/ImgUpload).
+  1. Home untuk instansiasi.
+  2. db (sebagai penyambung antara program dengan database dan sekaligus pengeksekusi syntax sql).
+  3. isUpdate sebagai penanda apakah user sedang menambahkan sebuah data atau mengedit/mengubah sebuah data.
+  4. id sebagai penanda ketika user akan mengubah/mengedit sebuah data/id didalam table laptop.
+  5. name sebagai penampungan nameAccount dari table account.
+  6. f sebagai temp allocate dari file img yang dipilih.
+  7. paths sebagai temp absolutepath dari f (nama file img).
+  8. newFilePath sebagai alokasi data string dengan path yang terbaru (src/ImgUpload/(namafile)).
+  9. originalPath sebagai temp alokasi data path img awal.
+  10. newPath sebagai target alokasi data path yang baru didalam local project (src/ImgUpload).
 11. tempIdComponent sebagai penanda atau pembanding apakah user mengubah data id component atau tidak (karena ketika user mengganti data id component asal dengan yang lainnya, maka data id component asal, status digunakannya akan menjadi false (0) dan data yang baru, status digunakannya akan menjadi true (1)).
 
 Namafile dari img akan diexplode atau dibuat menjadi unique (contohnya seperti pada php). Pada class ini juga terdapat beberapa fitur button, yaitu button back untuk menutup form AddLaptop, button add untuk menambahkan data kedalam db, button clear untuk membersihkan/mengosongkan field.
@@ -108,25 +108,25 @@ NOTE : Jika user ingin menambahkan data component, sebaiknya tambahkan data laya
 
 
 * Add Data 
-1. Layar
+  1. Layar
 
-2. Component
+  2. Component
 
-3. Laptop
+  3. Laptop
 
 
 * Update Data 
-1. Layar
+  1. Layar
 
-2. Component
+  2. Component
 
-3. Laptop
+  3. Laptop
 
 
 * Delete Data
-1. Layar
+  1. Layar
 
-2. Component
+  2. Component
 
-3. Laptop
+  3. Laptop
 
