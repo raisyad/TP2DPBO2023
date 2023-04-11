@@ -125,6 +125,7 @@ NOTE : Jika user ingin menambahkan data component, sebaiknya tambahkan data laya
 
 * Main Panel
 <img width="641" alt="mainpanel" src="https://user-images.githubusercontent.com/92106283/230785101-5bf734d9-dde4-4a63-9006-d7185b6503dc.png">
+<img width="642" alt="mainPanel2" src="https://user-images.githubusercontent.com/92106283/231150030-0064b208-2bd5-4798-8a61-e83b4a695719.png">
 
 
 * Add Data 
