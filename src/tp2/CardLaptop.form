@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="imageLabel" min="-2" pref="150" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="updateButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="deleteButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="merkLaptop" min="-2" max="-2" attributes="0"/>
+                                  <Component id="merkLaptop1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jenisLaptopLabel" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="merkLaptopLabel" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace pref="67" max="32767" attributes="0"/>
+                                      <Component id="modelLaptop" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="modelLaptopLabel" min="-2" pref="97" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="resolusiLayar" min="-2" max="-2" attributes="0"/>
+                                  <Component id="processor" min="-2" max="-2" attributes="0"/>
+                                  <Component id="resolusiLayar1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="resolusiLayar2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="processor1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="resolusiLayar4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="resolusiLayar5" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="hddssdLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ramLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="processorLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="vgaLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="keyboardLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cameraLabel" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="processor2" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="resolusiLayar3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="resolusiLayar6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="resolusiLayar7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jenisPanelLabel" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jenisLayarLabel" min="-2" max="-2" attributes="0"/>
+                                          <Component id="ukuranLayarLabel" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="resolusiLayar8" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="resolusiLayarLabel" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="12" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="merkLaptop" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="merkLaptopLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="modelLaptop" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="modelLaptopLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="merkLaptop1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jenisLaptopLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="processor1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="processor2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="processor" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="processorLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ukuranLayarLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="resolusiLayar3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="resolusiLayar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ramLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="resolusiLayar6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jenisLayarLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="resolusiLayar1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="hddssdLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="resolusiLayar7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jenisPanelLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="resolusiLayar2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="vgaLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="resolusiLayar8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="resolusiLayarLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="resolusiLayar4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="keyboardLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="resolusiLayar5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cameraLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="deleteButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="updateButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="imageLabel" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="imageLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="merkLaptop">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Merk Laptop   :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modelLaptop">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Model Laptop      :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="processor">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Processor"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="RAM"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="merkLaptopLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modelLaptopLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ramLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hddssdLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="deleteButton">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Delete"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="deleteButtonMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="deleteButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="updateButton">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Update"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="updateButtonMouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="updateButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HDD/SSD"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="processorLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Graphics Card"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="vgaLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ukuranLayarLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ukuran Layar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="processor1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Component of Laptop"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="processor2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Detail Layar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Keyboard"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="keyboardLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Camera"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cameraLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Jenis Layar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jenisLayarLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Jenis Panel"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jenisPanelLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayar8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Resolusi Layar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resolusiLayarLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="merkLaptop1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Jenis Laptop   :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jenisLaptopLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
