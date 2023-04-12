@@ -17,6 +17,8 @@ Buatlah program Java yang terkoneksi dengan database MySQL. Berikut spesifikasi 
 Jalankan program jar atau run file main.java didalam project
 
 ## Design Program
+![TP2UML drawio](https://user-images.githubusercontent.com/92106283/231371020-062f710c-2daa-42e6-800b-dedd186e001c.png)
+
 Pada program ini terdapat 12 class dengan class `Home` sebagai main class/Main Panel.
 * `LoginPage`	: Class ini merupakan class yang didalamnya merupakan run main ketika user menjalankan program, maka akan diarahkan ke halaman login terlebih dahulu.
 
